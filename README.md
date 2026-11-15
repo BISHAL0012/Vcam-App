@@ -59,6 +59,6 @@ Get the latest APK from the [**Releases**](../../releases) page.
 
 <div align="center">
 
-**Vcam v1.3** — Made with ❤️
+**Vcam v1.5** — Made with ❤️
 
 </div>
