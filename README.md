@@ -4,7 +4,7 @@
 
 ### Play any video as your camera in video calls
 
-![Version](https://img.shields.io/badge/version-1.3-blue)
+![Version](https://img.shields.io/badge/version-1.5-blue)
 ![Android](https://img.shields.io/badge/Android-7.0%2B-green)
 ![Root](https://img.shields.io/badge/Root-Not%20Required-brightgreen)
 ![Status](https://img.shields.io/badge/Status-100%25%20Working-success)
